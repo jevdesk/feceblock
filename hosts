@@ -93,10 +93,19 @@ pa-in.facebook.com
 ta-in.facebook.com
 te-in.facebook.com
 ml-in.facebook.com
-z-p15.www.instagram.com
+# Bloquear Instagram y sus subdominios
+instagram.com
 www.instagram.com
+api.instagram.com
+graph.instagram.com
+*.instagram.com
+z-p15.www.instagram.com
+# bloquear twitter y x.com
 twitter.com
 m.twitter.com
+x.com
+*.x.com
+# Bloquear youtube
 youtube.com
 www.youtube.com
 m.youtube.com
